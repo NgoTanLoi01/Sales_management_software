@@ -1,0 +1,681 @@
+D:\Workspace\PT-TK hệ thống thông tin\Đồ án cơ sở ngành\project_quanlybanhang\project_quanlybanhang\bin\Debug\project_quanlybanhang.exe.config
+D:\Workspace\PT-TK hệ thống thông tin\Đồ án cơ sở ngành\project_quanlybanhang\project_quanlybanhang\bin\Debug\project_quanlybanhang.exe
+D:\Workspace\PT-TK hệ thống thông tin\Đồ án cơ sở ngành\project_quanlybanhang\project_quanlybanhang\bin\Debug\project_quanlybanhang.pdb
+D:\Workspace\PT-TK hệ thống thông tin\Đồ án cơ sở ngành\project_quanlybanhang\project_quanlybanhang\obj\Debug\project_quanlybanhang.giaodien.resources
+D:\Workspace\PT-TK hệ thống thông tin\Đồ án cơ sở ngành\project_quanlybanhang\project_quanlybanhang\obj\Debug\project_quanlybanhang.Properties.Resources.resources
+D:\Workspace\PT-TK hệ thống thông tin\Đồ án cơ sở ngành\project_quanlybanhang\project_quanlybanhang\obj\Debug\project_quanlybanhang.csproj.GenerateResource.Cache
+D:\Workspace\PT-TK hệ thống thông tin\Đồ án cơ sở ngành\project_quanlybanhang\project_quanlybanhang\obj\Debug\project_quanlybanhang.exe
+D:\Workspace\PT-TK hệ thống thông tin\Đồ án cơ sở ngành\project_quanlybanhang\project_quanlybanhang\obj\Debug\project_quanlybanhang.pdb
+D:\Workspace\PT-TK hệ thống thông tin\Đồ án cơ sở ngành\project_quanlybanhang\project_quanlybanhang\obj\Debug\project_quanlybanhang.dangnhap.resources
+D:\Workspace\PT-TK hệ thống thông tin\Đồ án cơ sở ngành\project_quanlybanhang\project_quanlybanhang\obj\Debug\project_quanlybanhang.csprojResolveAssemblyReference.cache
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlybanhang\project_quanlybanhang\bin\Debug\project_quanlybanhang.exe.config
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlybanhang\project_quanlybanhang\obj\Debug\project_quanlybanhang.exe
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlybanhang\project_quanlybanhang\obj\Debug\project_quanlybanhang.pdb
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlybanhang\project_quanlybanhang\bin\Debug\project_quanlybanhang.exe
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlybanhang\project_quanlybanhang\bin\Debug\project_quanlybanhang.pdb
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlybanhang\project_quanlybanhang\obj\Debug\project_quanlybanhang.csprojResolveAssemblyReference.cache
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlybanhang\project_quanlybanhang\obj\Debug\project_quanlybanhang.Properties.Resources.resources
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlybanhang\project_quanlybanhang\obj\Debug\project_quanlybanhang.csproj.GenerateResource.Cache
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlybanhang\project_quanlybanhang\obj\Debug\project_quanlybanhang.fLogin.resources
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlybanhang\project_quanlybanhang\obj\Debug\project_quanlybanhang.fTableManager.resources
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlybanhang\project_quanlybanhang\obj\Debug\project_quanlybanhang.fLoad.resources
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlybanhang\project_quanlybanhang\obj\Debug\project_quanlybanhang.fNhanvien.resources
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\bin\Debug\project_quanlybanhang.exe.config
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\obj\Debug\project_quanlybanhang.exe
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\obj\Debug\project_quanlybanhang.pdb
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\bin\Debug\project_quanlybanhang.exe
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\bin\Debug\project_quanlybanhang.pdb
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\obj\Debug\project_quanlybanhang.csprojResolveAssemblyReference.cache
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\obj\Debug\project_quanlybanhang.fLogin.resources
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\obj\Debug\project_quanlybanhang.fNhanvien.resources
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\obj\Debug\project_quanlybanhang.fTableManager.resources
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\obj\Debug\project_quanlybanhang.fLoad.resources
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\obj\Debug\project_quanlybanhang.Properties.Resources.resources
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\obj\Debug\project_quanlybanhang.csproj.GenerateResource.Cache
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\obj\Debug\project_quanlybanhang.fMaytinh.resources
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\obj\Debug\project_quanlybanhang.fKhachhang.resources
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\obj\Debug\project_quanlybanhang.fNhacungcap.resources
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\obj\Debug\project_quanlybanhang.fLoaimaytinh.resources
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\obj\Debug\project_quanlybanhang.fBaohanh.resources
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\obj\Debug\project_quanlybanhang.fHoadonban.resources
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\obj\Debug\project_quanlybanhang.fHoadonnhap.resources
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\bin\Debug\EnvDTE.dll
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\bin\Debug\stdole.dll
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\bin\Debug\EnvDTE80.dll
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\bin\Debug\Microsoft.Build.Tasks.Core.dll
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\bin\Debug\VSLangProj.dll
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\bin\Debug\VSLangProj80.dll
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\bin\Debug\Microsoft.MSXML.dll
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\bin\Debug\Microsoft.Build.Utilities.Core.dll
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\bin\Debug\Microsoft.Build.Framework.dll
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\bin\Debug\VSLangProj2.dll
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\bin\Debug\EnvDTE.xml
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\bin\Debug\EnvDTE80.xml
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\bin\Debug\VSLangProj.xml
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\bin\Debug\VSLangProj80.xml
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\bin\Debug\VSLangProj2.xml
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\obj\Debug\project_quanlybanhang.csproj.project_quanlybanhang.exe.config
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\obj\Debug\project_quanlybanhang.fPhieuHDNhap.resources
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\obj\Debug\RdlCompile.cache
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\obj\Debug\RdlCompile.compiled
+D:\Workspace\Đồ án cơ sở ngành\Đồ án cơ sở ngành\project_quanlycuahangmaytinh\project_quanlybanhang\obj\Debug\project_quanlybanhang.fThongke.resources
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\project_quanlybanhang.exe.config
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\obj\Debug\project_quanlybanhang.exe
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\obj\Debug\project_quanlybanhang.pdb
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\project_quanlybanhang.exe
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\project_quanlybanhang.pdb
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\EnvDTE.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\stdole.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\EnvDTE80.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\Microsoft.Build.Tasks.Core.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\VSLangProj.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\VSLangProj80.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\Microsoft.MSXML.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\Microsoft.Build.Utilities.Core.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\Microsoft.Build.Framework.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\VSLangProj2.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\EnvDTE.xml
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\EnvDTE80.xml
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\VSLangProj.xml
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\VSLangProj80.xml
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\VSLangProj2.xml
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\obj\Debug\project_quanlybanhang.csprojResolveAssemblyReference.cache
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\obj\Debug\project_quanlybanhang.csproj.project_quanlybanhang.exe.config
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\obj\Debug\project_quanlybanhang.fBaohanh.resources
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\obj\Debug\project_quanlybanhang.fLogin.resources
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\obj\Debug\project_quanlybanhang.fHoadonban.resources
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\obj\Debug\project_quanlybanhang.fHoadonnhap.resources
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\obj\Debug\project_quanlybanhang.fKhachhang.resources
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\obj\Debug\project_quanlybanhang.fLoaimaytinh.resources
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\obj\Debug\project_quanlybanhang.fMaytinh.resources
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\obj\Debug\project_quanlybanhang.fNhacungcap.resources
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\obj\Debug\project_quanlybanhang.fNhanvien.resources
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\obj\Debug\project_quanlybanhang.fTableManager.resources
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\obj\Debug\project_quanlybanhang.fLoad.resources
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\obj\Debug\project_quanlybanhang.fThongke.resources
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\obj\Debug\project_quanlybanhang.Properties.Resources.resources
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\obj\Debug\project_quanlybanhang.csproj.GenerateResource.Cache
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\obj\Debug\RdlCompile.cache
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\obj\Debug\RdlCompile.compiled
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\CrystalDecisions.Shared.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\FlashControlV71.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\ShockwaveFlashObjects.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\obj\Debug\project_quanlybanhang.CRHoaDonNhap.resources
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\obj\Debug\project_quanlybanhang.fHoaDonBanHang.resources
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv6\project_quanlybanhang\obj\Debug\project_quanlybanhang.fPhieuBaoHanh.resources
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\project_quanlybanhang.exe.config
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\obj\Debug\project_quanlybanhang.exe
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\obj\Debug\project_quanlybanhang.pdb
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\project_quanlybanhang.exe
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\project_quanlybanhang.pdb
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\CrystalDecisions.Shared.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\FlashControlV71.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\ShockwaveFlashObjects.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\EnvDTE.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\stdole.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\EnvDTE80.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\Microsoft.Build.Tasks.Core.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\VSLangProj.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\VSLangProj80.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\Microsoft.MSXML.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\Microsoft.Build.Utilities.Core.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\Microsoft.Build.Framework.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\VSLangProj2.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\EnvDTE.xml
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\EnvDTE80.xml
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\VSLangProj.xml
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\VSLangProj80.xml
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\VSLangProj2.xml
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\obj\Debug\project_quanlybanhang.csprojResolveAssemblyReference.cache
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\obj\Debug\project_quanlybanhang.csproj.project_quanlybanhang.exe.config
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\obj\Debug\project_quanlybanhang.CRHoaDonNhap.resources
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\obj\Debug\project_quanlybanhang.fBaohanh.resources
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\obj\Debug\project_quanlybanhang.fLogin.resources
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\obj\Debug\project_quanlybanhang.fHoadonban.resources
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\obj\Debug\project_quanlybanhang.fHoaDonBanHang.resources
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\obj\Debug\project_quanlybanhang.fHoadonnhap.resources
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\obj\Debug\project_quanlybanhang.fKhachhang.resources
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\obj\Debug\project_quanlybanhang.fLoaimaytinh.resources
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\obj\Debug\project_quanlybanhang.fMaytinh.resources
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\obj\Debug\project_quanlybanhang.fNhacungcap.resources
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\obj\Debug\project_quanlybanhang.fNhanvien.resources
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\obj\Debug\project_quanlybanhang.fPhieuBaoHanh.resources
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\obj\Debug\project_quanlybanhang.fTableManager.resources
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\obj\Debug\project_quanlybanhang.fLoad.resources
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\obj\Debug\project_quanlybanhang.fThongke.resources
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\obj\Debug\project_quanlybanhang.Properties.Resources.resources
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\obj\Debug\project_quanlybanhang.csproj.GenerateResource.Cache
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\obj\Debug\RdlCompile.cache
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_1\project_quanlybanhang\obj\Debug\RdlCompile.compiled
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\project_quanlybanhang.exe.config
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\obj\Debug\project_quanlybanhang.exe
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\obj\Debug\project_quanlybanhang.pdb
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\project_quanlybanhang.exe
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\project_quanlybanhang.pdb
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\CrystalDecisions.Shared.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\FlashControlV71.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\ShockwaveFlashObjects.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\EnvDTE.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\stdole.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\EnvDTE80.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\Microsoft.Build.Tasks.Core.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\VSLangProj.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\VSLangProj80.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\Microsoft.MSXML.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\Microsoft.Build.Utilities.Core.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\Microsoft.Build.Framework.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\VSLangProj2.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\EnvDTE.xml
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\EnvDTE80.xml
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\VSLangProj.xml
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\VSLangProj80.xml
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\VSLangProj2.xml
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\obj\Debug\project_quanlybanhang.csprojResolveAssemblyReference.cache
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\obj\Debug\project_quanlybanhang.csproj.project_quanlybanhang.exe.config
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\obj\Debug\project_quanlybanhang.CRHoaDonNhap.resources
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\obj\Debug\project_quanlybanhang.fBaohanh.resources
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\obj\Debug\project_quanlybanhang.fLogin.resources
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\obj\Debug\project_quanlybanhang.fHoadonban.resources
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\obj\Debug\project_quanlybanhang.fHoaDonBanHang.resources
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\obj\Debug\project_quanlybanhang.fHoadonnhap.resources
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\obj\Debug\project_quanlybanhang.fKhachhang.resources
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\obj\Debug\project_quanlybanhang.fLoaimaytinh.resources
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\obj\Debug\project_quanlybanhang.fMaytinh.resources
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\obj\Debug\project_quanlybanhang.fNhacungcap.resources
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\obj\Debug\project_quanlybanhang.fNhanvien.resources
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\obj\Debug\project_quanlybanhang.fPhieuBaoHanh.resources
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\obj\Debug\project_quanlybanhang.fTableManager.resources
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\obj\Debug\project_quanlybanhang.fLoad.resources
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\obj\Debug\project_quanlybanhang.Properties.Resources.resources
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\obj\Debug\project_quanlybanhang.csproj.GenerateResource.Cache
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\obj\Debug\RdlCompile.cache
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_2\project_quanlybanhang\obj\Debug\RdlCompile.compiled
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\project_quanlybanhang.exe.config
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\obj\Debug\project_quanlybanhang.exe
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\obj\Debug\project_quanlybanhang.pdb
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\project_quanlybanhang.exe
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\project_quanlybanhang.pdb
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\CrystalDecisions.Shared.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\FlashControlV71.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\ShockwaveFlashObjects.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\EnvDTE.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\stdole.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\EnvDTE80.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\Microsoft.Build.Tasks.Core.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\VSLangProj.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\VSLangProj80.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\Microsoft.MSXML.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\Microsoft.Build.Utilities.Core.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\Microsoft.Build.Framework.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\VSLangProj2.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\EnvDTE.xml
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\EnvDTE80.xml
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\VSLangProj.xml
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\VSLangProj80.xml
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\VSLangProj2.xml
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\obj\Debug\project_quanlybanhang.csprojResolveAssemblyReference.cache
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\obj\Debug\project_quanlybanhang.csproj.project_quanlybanhang.exe.config
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\obj\Debug\project_quanlybanhang.CRHoaDonNhap.resources
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\obj\Debug\project_quanlybanhang.fBaohanh.resources
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\obj\Debug\project_quanlybanhang.fLogin.resources
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\obj\Debug\project_quanlybanhang.fHoadonban.resources
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\obj\Debug\project_quanlybanhang.fHoaDonBanHang.resources
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\obj\Debug\project_quanlybanhang.fHoadonnhap.resources
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\obj\Debug\project_quanlybanhang.fKhachhang.resources
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\obj\Debug\project_quanlybanhang.fLoaimaytinh.resources
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\obj\Debug\project_quanlybanhang.fMaytinh.resources
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\obj\Debug\project_quanlybanhang.fNhacungcap.resources
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\obj\Debug\project_quanlybanhang.fNhanvien.resources
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\obj\Debug\project_quanlybanhang.fPhieuBaoHanh.resources
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\obj\Debug\project_quanlybanhang.fTableManager.resources
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\obj\Debug\project_quanlybanhang.fLoad.resources
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\obj\Debug\project_quanlybanhang.Properties.Resources.resources
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\obj\Debug\project_quanlybanhang.csproj.GenerateResource.Cache
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\obj\Debug\RdlCompile.cache
+D:\Workspace\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\obj\Debug\RdlCompile.compiled
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\project_quanlybanhang.exe.config
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\obj\Debug\project_quanlybanhang.exe
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\obj\Debug\project_quanlybanhang.pdb
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\project_quanlybanhang.exe
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\project_quanlybanhang.pdb
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\CrystalDecisions.Shared.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\FlashControlV71.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\ShockwaveFlashObjects.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\EnvDTE.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\stdole.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\EnvDTE80.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\Microsoft.Build.Tasks.Core.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\VSLangProj.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\VSLangProj80.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\Microsoft.MSXML.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\Microsoft.Build.Utilities.Core.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\Microsoft.Build.Framework.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\VSLangProj2.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\EnvDTE.xml
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\EnvDTE80.xml
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\VSLangProj.xml
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\VSLangProj80.xml
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\VSLangProj2.xml
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\obj\Debug\project_quanlybanhang.csprojResolveAssemblyReference.cache
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\obj\Debug\project_quanlybanhang.csproj.project_quanlybanhang.exe.config
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\obj\Debug\project_quanlybanhang.CRHoaDonNhap.resources
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\obj\Debug\project_quanlybanhang.fBaohanh.resources
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\obj\Debug\project_quanlybanhang.fLogin.resources
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\obj\Debug\project_quanlybanhang.fHoadonban.resources
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\obj\Debug\project_quanlybanhang.fHoaDonBanHang.resources
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\obj\Debug\project_quanlybanhang.fHoadonnhap.resources
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\obj\Debug\project_quanlybanhang.fKhachhang.resources
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\obj\Debug\project_quanlybanhang.fLoaimaytinh.resources
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\obj\Debug\project_quanlybanhang.fMaytinh.resources
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\obj\Debug\project_quanlybanhang.fNhacungcap.resources
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\obj\Debug\project_quanlybanhang.fNhanvien.resources
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\obj\Debug\project_quanlybanhang.fPhieuBaoHanh.resources
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\obj\Debug\project_quanlybanhang.fTableManager.resources
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\obj\Debug\project_quanlybanhang.fLoad.resources
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\obj\Debug\project_quanlybanhang.Properties.Resources.resources
+D:\University\Đồ án cơ sở ngành\project_quanlycuahangmaytinh_lv2_6\project_quanlybanhang\obj\Debug\project_quanlybanhang.csproj.GenerateResource.Cache
