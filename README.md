@@ -1,4 +1,4 @@
-Đề tài này tập trung nghiên cứu về ngôn ngữ lập trình C# (hay C sharp), một ngôn ngữ được phát triễn bởi Microsoft. Thông qua việc nghiên cứu tài liệu hướng dẫn xây dựng một phần mềm quản lý bán hàng và tìm hiểu về các website thiết kế, xây dựng phần mềm quản lý bán hàng. Qua đó, tôi đề xuất một "dự án phần mềm quản lý cửa hàng máy tính" để làm thực nghiệm cho đề tài.
+Đề tài này tập trung nghiên cứu về ngôn ngữ lập trình C# (hay C sharp), một ngôn ngữ được phát triễn bởi Microsoft. Thông qua việc nghiên cứu tài liệu hướng dẫn xây dựng một phần mềm quản lý bán hàng và tìm hiểu về các website thiết kế, xây dựng phần mềm quản lý bán hàng. Qua đó, tôi đề xuất một **"Dự án phần mềm quản lý cửa hàng máy tính"** để làm thực nghiệm cho đề tài.
 
 Sau 5 tuần tìm hiểu và thực hiện, tôi đã hoàn thành một phần mềm quản lý cửa hàng máy tính hoàn chỉnh bằng ngôn ngữ C#. Với các yêu cầu cơ bản như:
 
@@ -46,3 +46,8 @@ _**Một số chức năng của phần mềm:**_
 **Phiếu bảo hành (warranty):**
 
 ![image](https://github.com/NgoTanLoi01/DoAnCoSoNganh_NgoTanLoi/assets/112923143/2a60c973-ad72-4f44-8495-0a7d87c88c1b)
+
+
+**Tài khoản quản trị: admin – Mật khẩu: 123**
+
+**Tài khoản nhân viên: nhanvien – Mật khẩu: 123**
