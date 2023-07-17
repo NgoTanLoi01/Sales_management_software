@@ -52,4 +52,4 @@ _**Một số chức năng của phần mềm:**_
 
 **Tài khoản quản trị: admin – Mật khẩu: 123**
 
-**Tài khoản nhân viên: nhanvien – Mật khẩu: 123**
+**Tài khoản thành viên: nhanvien – Mật khẩu: 123**
